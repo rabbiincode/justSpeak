@@ -1,0 +1,11 @@
+html{
+ font-size: 13px;
+}
+
+.index{
+ background: linear-gradient(to right, #284593, #4567a0, #1555c0, #00848f);
+ min-height: 100vh;
+ overflow-x: hidden;
+ padding-top: 2rem;
+ padding-right: 1rem;
+}
